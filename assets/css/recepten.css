@@ -1,0 +1,11 @@
+main{
+    width: 100vw;
+    height: 90vh;
+}
+#container {
+    margin: 2vw;
+    padding: 2vw;
+    background: red;
+    width: auto;
+    height: auto;
+}
